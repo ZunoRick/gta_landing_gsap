@@ -15,7 +15,7 @@ const FirstVideo = () => {
 			scrollTrigger: {
 				trigger: '.first-vd-wrapper',
 				start: 'top top',
-				end: '+=200% top',
+				end: '+=300% top',
 				scrub: true,
 				pin: true,
 			},
